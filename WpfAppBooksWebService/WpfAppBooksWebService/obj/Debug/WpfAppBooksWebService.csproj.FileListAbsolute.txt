@@ -1,0 +1,15 @@
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\bin\Debug\WpfAppBooksWebService.exe.config
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\bin\Debug\WpfAppBooksWebService.exe
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\bin\Debug\WpfAppBooksWebService.pdb
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\obj\Debug\WpfAppBooksWebService.csprojAssemblyReference.cache
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\obj\Debug\MainWindow.g.cs
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\obj\Debug\App.g.cs
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\obj\Debug\WpfAppBooksWebService_MarkupCompile.cache
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\obj\Debug\WpfAppBooksWebService_MarkupCompile.lref
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\obj\Debug\MainWindow.baml
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\obj\Debug\WpfAppBooksWebService.g.resources
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\obj\Debug\WpfAppBooksWebService.Properties.Resources.resources
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\obj\Debug\WpfAppBooksWebService.csproj.GenerateResource.cache
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\obj\Debug\WpfAppBooksWebService.csproj.CoreCompileInputs.cache
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\obj\Debug\WpfAppBooksWebService.exe
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\obj\Debug\WpfAppBooksWebService.pdb
