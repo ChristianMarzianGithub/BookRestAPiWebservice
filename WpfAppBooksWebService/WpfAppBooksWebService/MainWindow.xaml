@@ -7,7 +7,15 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="364,182,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="364,182,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="ISBNTextBox" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="23" Margin="47,182,0,0" TextWrapping="Wrap" Text="9780312097455" VerticalAlignment="Top" Width="281"/>
+        <Image Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="100" Margin="255,50,0,0" VerticalAlignment="Top" Width="100" Source="\\VMServer2\Users\marzian\Desktop\5hV-C1mN_400x400.jpg"/>
+        <Label Grid.ColumnSpan="2" Content="powered by" HorizontalAlignment="Left" Margin="255,24,0,0" VerticalAlignment="Top"/>
+        <Image x:Name="webImage" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="100" Margin="255,236,0,0" VerticalAlignment="Top" Width="100" Source="\\VMServer2\Users\marzian\Pictures\Screenpresso\2018-09-10_16h59_33.png"/>
 
     </Grid>
 </Window>

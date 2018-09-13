@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Newtonsoft.Json.Linq;
 
 namespace WpfAppBooksWebService
 {
@@ -24,12 +25,29 @@ namespace WpfAppBooksWebService
         public MainWindow()
         {
             InitializeComponent();
-            restApi = new RestApiHelper();            
+            restApi = new RestApiHelper();     
+            
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            restApi.HelloWorld();
+            var JO = JObject.Parse(restApi.requestISBN(ISBNTextBox.Text));
+
+            var t = JO[ISBNTextBox.Text];
+            if(t!=null)
+            {
+                var z = t["thumbnail_url"];
+                webImage.Source = new BitmapImage(new Uri(z.ToString()));
+            }
+
+            
+            //webImage.Source = z.ToString();
+
+            
+
+
+
+
         }
     }
 }

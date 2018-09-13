@@ -13,3 +13,6 @@ C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\obj\De
 C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\obj\Debug\WpfAppBooksWebService.csproj.CoreCompileInputs.cache
 C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\obj\Debug\WpfAppBooksWebService.exe
 C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\obj\Debug\WpfAppBooksWebService.pdb
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marzian\source\repos\WpfAppBooksWebService\WpfAppBooksWebService\obj\Debug\WpfAppBooksWebService.csproj.CopyComplete
